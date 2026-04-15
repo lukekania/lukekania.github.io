@@ -44,7 +44,7 @@
   {
     "itemId": "2",
     "title": "Planung und Entwicklung mobilen Applikation zur Erforschung der Behandlung von Brustkrebspatientinnen",
-    "role": ["Softwarearchitekt", "Fullstack-Entwickler"],
+    "role": ["Softwarearchitekt", "Fullstack Engineer"],
     "startDate": "06/2020",
     "endDate": "12/2020",
     "industry": ["Healthcare"],
@@ -62,7 +62,7 @@
   {
     "itemId": "3",
     "title": "Agile Entwicklung Office Management Applikation",
-    "role": ["Junior Fullstack-Entwickler"],
+    "role": ["Junior Fullstack Engineer"],
     "startDate": "01/2021",
     "endDate": "03/2021",
     "industry": ["Software Entwicklung"],
@@ -104,7 +104,7 @@
     "title": "Agile Entwicklung Migrationsprojekt",
     "role": [
       "Junior Consultant",
-      "Junior Fullstack-Entwickler",
+      "Junior Fullstack Engineer",
       "Technical Lead Frontend"
     ],
     "startDate": "06/2021",
@@ -124,7 +124,7 @@
   {
     "itemId": "6",
     "title": "Agile Entwicklung Portfolio Management Tool",
-    "role": ["Consultant, Fullstack-Entwickler"],
+    "role": ["Consultant, Fullstack Engineer"],
     "startDate": "10/2021",
     "endDate": "01/2022",
     "industry": ["Software Entwicklung", "Beratung"],
@@ -198,7 +198,7 @@
   {
     "itemId": "10",
     "title": "Agile Entwicklung Code Generator",
-    "role": ["Softwarearchitekt", "Fullstack-Entwickler"],
+    "role": ["Softwarearchitekt", "Fullstack Engineer"],
     "startDate": "07/2022",
     "endDate": "09/2022",
     "industry": ["Software Entwicklung", "Beratung"],
@@ -216,11 +216,7 @@
   {
     "itemId": "11",
     "title": "Migrations-Betreuung & Agile Weiterentwicklung",
-    "role": [
-      "Cloud Engineer",
-      "Fullstack-Entwickler",
-      "Technical Lead Frontend"
-    ],
+    "role": ["Cloud Engineer", "Fullstack Engineer", "Technical Lead Frontend"],
     "startDate": "07/2022",
     "endDate": "12/2022",
     "industry": ["Versicherung"],
@@ -297,7 +293,7 @@
     "title": "Regierungsprojekt Entwicklung und Migration bestehender Web-Applikation",
     "role": [
       "Softwarearchitekt",
-      "Fullstack-Entwickler",
+      "Fullstack Engineer",
       "DevOps Engineer",
       "Lead Developer"
     ],
@@ -502,7 +498,7 @@
   {
     "itemId": "26",
     "title": "Neuentwicklung Antragsstrecke",
-    "role": ["Senior Softwareentwickler"],
+    "role": ["Senior Software Engineer"],
     "startDate": "03/2026",
     "endDate": "",
     "industry": ["Versicherung"],
