@@ -420,7 +420,7 @@
       "Regelmäßiges Stakeholder-Alignment in Circle-Meetings"
     ],
     "technischesUmfeld": "Authentifizierung und Autorisierung, Mermaid, Python, GitHub Actions, GitHub, Docker, Kubernetes, GCP Google Cloud Platform, Linux Shell (bash), Linux Server, Claude Code, LLM, Langdock, MCP Server, Deployment- und Go-Live-Management inkl. Produktionsstabilisierung, Containervirtualisierung, Virtualisierung, Virtuelle Computer",
-    "isPrivate": false
+    "isPrivate": true
   },
   {
     "itemId": "22",
