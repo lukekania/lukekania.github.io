@@ -1,0 +1,514 @@
+[
+  {
+    "itemId": "0",
+    "title": "Python Applikation zur Unterstützung bei finanziellen Entscheidungen mit Hilfe von Stock Valuation Ratios und Machine Learning",
+    "role": [
+      "Softwarearchitekt",
+      "Data Engineer",
+      "Data Analyst",
+      "ML Engineer",
+      "Software Engineer"
+    ],
+    "startDate": "01/2018",
+    "endDate": "06/2018",
+    "industry": ["Finance"],
+    "description": "Orchestrierung mehrerer Python-Skripte mit Apache Airflow zur automatisierten Datenpipeline für Aktienmärkte: Web-Scraping zur Generierung eindeutiger Ticker-Symbole, Download historischer und Business-Daten, Datenaufbereitung und Persistierung in einer Datenbank. Aufbau von Python-Packages zur Auswertung der Daten inkl. ML/statistischer Analysen, Aufbereitung fundamentaler Kennzahlen und Visualisierungen.",
+    "bulletpoints": [
+      "Anforderungsmanagement und Umsetzungsplanung für eine Airflow-basierte Datenpipeline",
+      "Architekturentscheidungen und Design des 3-stufigen Workflows (Scraping → Download → Aufbereitung/DB)",
+      "Entwicklung und Betrieb der Airflow-DAGs sowie der Python-Skripte/Packages",
+      "Datenaufbereitung, Persistierung und Bereitstellung für Analysen (ML, Statistik, Fundamentals, Visualisierung)",
+      "Tests und technische Dokumentation für Nutzung, Betrieb und Erweiterung"
+    ],
+    "technischesUmfeld": "NumPy, SciKit-Learn, Tensorflow, Mac OS X, Apache Airflow, Pandas, Yahoo-Finance, Docker, Jupyter Notebook, Python",
+    "isPrivate": false
+  },
+  {
+    "itemId": "1",
+    "title": "Internship Lufthansa Cargo",
+    "role": ["Intern"],
+    "startDate": "03/2020",
+    "endDate": "06/2020",
+    "industry": ["Luft und Raumfahrt"],
+    "description": "Mitarbeit in mehreren Teilprojekten der Bereiche Digital Cargo Lab, Digital Solutions und IT Architecture mit Schwerpunkten Process Mining/Data Hub, API-Management und Trendradar/Tech-Research.",
+    "bulletpoints": [
+      "Process Mining/Data Hub: Python-Extraktionen aus diversen Datenquellen, Datenaufbereitung mit NumPy/Pandas, EDA sowie Aufbau einer SQLite-Datenbank inkl. Schnittstelle zur Datenübernahme",
+      "Azure Data Platform: Architekturentwurf für eine MS Azure-Umgebung und Unterstützung bei der Erstimplementierung von Blob Storage, Azure Data Factory und Databricks (Scala/Apache Spark) zur Anreicherung der Datensätze",
+      "Tool-Evaluierung: Test und Bewertung von Process-Mining-Tools (PafNow, Celonis, Fluxicon Disco)",
+      "API-Management: Einarbeitung in Swagger/OpenAPI, Erstellung von JSON-Schemas (Node.js/NPM/CLI), API-Tests mit Postman sowie Dokumentation von 3 Lufthansa Cargo APIs",
+      "Trendradar: Technologie-Research (Air Cargo/Logistik/Operations/Aviation), methodisches Vorgehen zur Innovationsbewertung, explorative Interviews sowie Dokumentation/Visualisierungsvorbereitung"
+    ],
+    "technischesUmfeld": "Apple MacOS / iOS, Postman, OpenAPI/Swagger, Scala, Apache Spark, bash, zsh, MS Azure Data Factory, MS Azure Databricks, SQLite, Atom, Jupyter, Anaconda, Python",
+    "isPrivate": false
+  },
+  {
+    "itemId": "2",
+    "title": "Planung und Entwicklung mobilen Applikation zur Erforschung der Behandlung von Brustkrebspatientinnen",
+    "role": ["Softwarearchitekt", "Fullstack-Entwickler"],
+    "startDate": "06/2020",
+    "endDate": "12/2020",
+    "industry": ["Healthcare"],
+    "description": "Beratung und konzeptionelle Unterstützung bei der Entwicklung einer mobilen App zur strukturierten Erfassung und Dokumentation onkologischer Informationen für das Universitätsklinikum Frankfurt (in Zusammenarbeit mit einer gynäkologischen Klinik). Fokus auf konzeptioneller Ausarbeitung, technischer Anforderungsanalyse und prototypischer Umsetzung zur Validierung. Zusätzlich Evaluierung potenzieller Cloud-Komponenten/Anbieter zur Vorbereitung einer späteren skalierbaren Produktivumsetzung.",
+    "bulletpoints": [
+      "Erstellung eines App-Konzepts für eine mobile medizinische Anwendung",
+      "Sprintplanung & User Stories (Erstellung/Strukturierung)",
+      "Technische Anforderungsanalyse in Abstimmung mit medizinischen Fachbereichen",
+      "Entwurf eines Datenbankschemas zur strukturierten Erfassung medizinischer Informationen",
+      "UX-Mitarbeit und Entwicklung eines Prototyps inkl. Evaluierung geeigneter Cloud-Komponenten/Anbieter"
+    ],
+    "technischesUmfeld": "Figma, Google Design Spring, Atlassian Confluence/Jira, PostgreSQL, Python, JavaScript, Amazon Web Services (AWS), Babel, Metro, yarn, Husky, Typescript, React Native",
+    "isPrivate": false
+  },
+  {
+    "itemId": "3",
+    "title": "Agile Entwicklung Office Management Applikation",
+    "role": ["Junior Fullstack-Entwickler"],
+    "startDate": "01/2021",
+    "endDate": "03/2021",
+    "industry": ["Software Entwicklung"],
+    "description": "Konzeption und Umsetzung einer Anwendung zur Raum- und Ressourcenplanung während der COVID-19-Pandemie, um gesetzliche/organisatorische Vorgaben pragmatisch abzubilden. Mitarbeitende konnten Arbeitsplätze buchungsbasiert reservieren, Überbuchungen wurden vermieden. Integration von Active Directory für Authentifizierung/Autorisierung sowie regelbasierte Reservierung und transparente Auslastungssteuerung unter realen Nutzungsbedingungen.",
+    "bulletpoints": [
+      "Mitarbeit in agilen Prozessen (Daily) inkl. User Stories, Sprintplanung und Aufwandsschätzung",
+      "Umsetzung fachlicher Features in Frontend und Backend",
+      "Entwurf/Pflege von Datenbankschemata inkl. Backups",
+      "Plausibilitätsprüfungen zur Sicherstellung der Datenqualität",
+      "Entwicklertests sowie technische Dokumentation"
+    ],
+    "technischesUmfeld": "Atlassian Confluence/Jira, Nginx, Portainer, Docker, Hibernate/JPA, Spring Web, Spring Security, Spring Data, Spring Boot, Java, NodeJS, NPM, Typescript, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "4",
+    "title": "Agile Entwicklung eines User Interface",
+    "role": [
+      "Junior Consultant",
+      "Junior Software Engineer",
+      "Technical Lead Frontend"
+    ],
+    "startDate": "03/2021",
+    "endDate": "06/2022",
+    "industry": ["Versicherung"],
+    "description": "Entwicklung einer webbasierten Status-Visualisierung für ein Migrationsprojekt zur Nutzung durch Vermögensberater sowie Service-/Supportmitarbeiter. Login-basierte Authentifizierung mit rollenbasierten Zugriffsrechten und kachelbasierter, responsiver Übersicht zum individuellen Fortschritt der Migrationsprozesse. Support kann zusätzlich per Identifikationsnummer über einen separaten REST-Endpunkt Detailstatus abrufen, der ebenfalls in der Weboberfläche visualisiert wird. Umsetzung von UI, REST-Schnittstellen und Microservices in enger Abstimmung mit UX-Design und Kommunikation.",
+    "bulletpoints": [
+      "Mitarbeit in Agile Ceremonies (Daily, Planning, Review)",
+      "Anforderungsmanagement und Umsetzungsplanung",
+      "Beteiligung an Architekturentscheidungen (unter Anleitung)",
+      "Entwicklung und Betrieb von Frontend- und Backend-Komponenten inkl. REST-Schnittstellen/Microservices",
+      "Tests (Dev/Unit/E2E) sowie technische Dokumentation"
+    ],
+    "technischesUmfeld": "SQL, SonarQube, Git, Atlassian Confluence/Jira, Atlassian Bitbucket, bash, zsh, VS Code, Docker, Kubernetes, Nexus, Apache Maven, Hibernate/JPA, Jenkins, RBAC, Keycloak, JWT, Microsoft Azure, Microservices, REST, NodeJS, NPM, JavaScript, Java, Typescript, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "5",
+    "title": "Agile Entwicklung Migrationsprojekt",
+    "role": [
+      "Junior Consultant",
+      "Junior Fullstack-Entwickler",
+      "Technical Lead Frontend"
+    ],
+    "startDate": "06/2021",
+    "endDate": "06/2022",
+    "industry": ["Versicherung"],
+    "description": "Weiterentwicklung einer bestehenden Lösung zur Migration einer E-Mail- und CRM-Plattform in die Microsoft Azure Cloud (Outlook/Microsoft Office). Umsetzung und Überwachung der bidirektionalen Datensynchronisation zwischen Alt- und Neusystem im laufenden Produktivbetrieb. Technische Begleitung von Go-Lives inkl. Rufbereitschaft, Monitoring und Troubleshooting (Azure Logs, Microsoft SQL Server, eigene Analyse-/Auswertungsskripte). Verantwortung für Messaging-Monitoring über Azure Service Bus sowie Deployment und Weiterentwicklung migrationsrelevanten Codes in mehreren GitHub-Repositories, Azure Runbooks und Cloud-Komponenten. Zusätzlich Betrieb und Weiterentwicklung eines Statusportals zur Transparenz des Migrationsfortschritts.",
+    "bulletpoints": [
+      "Mitarbeit in Agile Ceremonies (Daily, Planning, Review) sowie Anforderungsmanagement/Umsetzungsplanung",
+      "Mitwirkung an Architekturentscheidungen für cloudbasierte Migrationslösungen",
+      "Entwicklung, Deployment und Betrieb migrationsrelevanter Komponenten (GitHub Repos, Azure Runbooks, Cloud-Services)",
+      "Go-Live-Begleitung inkl. Rufbereitschaft, Monitoring & Troubleshooting (Azure Logs, SQL Server, Scripts) sowie Service-Bus-Messaging-Überwachung",
+      "Tests (Dev/Unit/E2E) und technische Dokumentation"
+    ],
+    "technischesUmfeld": "SQL, SonarQube, Atlassian Confluence/Jira, Atlassian Bitbucket, Git, bash, zsh, VS Code, Nexus, Apache Maven, Hibernate/JPA, Jenkins, RBAC, Keycloak, JWT, REST, Helm, Kubernetes, Microservices, MS Logs, MS SQL Server, MS Runbooks, MS Messaging, MS Servicebus, Microsoft Azure, NodeJS, NPM, JavaScript, Spring Web, Spring Security, Spring Data, Spring Boot, Java, Typescript, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "6",
+    "title": "Agile Entwicklung Portfolio Management Tool",
+    "role": ["Consultant, Fullstack-Entwickler"],
+    "startDate": "10/2021",
+    "endDate": "01/2022",
+    "industry": ["Software Entwicklung", "Beratung"],
+    "description": "Entwicklung einer webbasierten Anwendung zur strukturierten Verwaltung von Projektinformationen, Zertifikaten und Weiterbildungen inkl. Artikel-/Texterstellung und Ereignis-Feed. Backend als Spring/Maven-Service mit REST-API für mehrere Clients, Frontend als SPA. Zusätzlich Docker-Containerisierung und Automatisierung von Build/Deployment über GitHub Workflows für reproduzierbare Releases.",
+    "bulletpoints": [
+      "Mitarbeit in Agile Ceremonies (Daily, Planning, Review) sowie Anforderungsmanagement/Umsetzungsplanung",
+      "Architekturmitwirkung für Backend, API und Frontend",
+      "Entwicklung und Betrieb von Backend- und Frontend-Komponenten inkl. REST-API-Anbindung",
+      "Containerisierung des Backends mit Docker",
+      "GitHub Workflows für Build/Deployment, Entwicklertests und technische Dokumentation"
+    ],
+    "technischesUmfeld": "bash, zsh, GitHub, Hibernate/JPA, Docker, Apache Maven, Spring Boot, Java, JavaScript, Typescript, NodeJS, NPM, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "7",
+    "title": "Agile Entwicklung Native Mobile App",
+    "role": ["Mobile Developer"],
+    "startDate": "12/2021",
+    "endDate": "02/2022",
+    "industry": ["Software Entwicklung", "Beratung"],
+    "description": "Migration einer bestehenden Webanwendung in eine native Mobile-App zur mobilen Nutzung eines Portfolio-Management-Tools. Anbindung über eine vorhandene REST-API zur Nutzung von Projekt-, Zertifikats- und Inhaltsdaten. Fokus: Anpassung der Architektur an mobile Anforderungen, Wiederverwendung bestehender Backend-Schnittstellen und konsistente Funktionalität zwischen Web und Mobile.",
+    "bulletpoints": [
+      "Anforderungsmanagement für die mobile Erweiterung der bestehenden Anwendung",
+      "Umsetzungs- und Releaseplanung",
+      "Architekturentscheidungen zur Anbindung der App an die bestehende REST-API",
+      "Entwicklung und Betrieb der nativen Mobile-App inkl. Integration der Backend-Schnittstellen",
+      "Tests (Funktionalität/Stabilität) sowie technische Dokumentation"
+    ],
+    "technischesUmfeld": "GitHub, Simulation, XCode, Apple MacOS / iOS, zsh, Kotlin, Dart, Flutter",
+    "isPrivate": false
+  },
+  {
+    "itemId": "8",
+    "title": "Angular Updater",
+    "role": ["Software Engineer"],
+    "startDate": "01/2022",
+    "endDate": "01/2022",
+    "industry": ["Developer Tools"],
+    "description": "Command-Line Tool zur Migration und Aktualisierung von Angular Projekten.",
+    "bulletpoints": [
+      "Iteriert durch verschiedene Ordner und reagiert auf die Response aus dem Angular CLI Command",
+      "Führt CLI Commands aus mit Inbezugnahme der Response",
+      "Bei Major Changes wird dem Entwickler ein Prompt gezeigt"
+    ],
+    "technischesUmfeld": "Python, Angular, npm, Node.js, GitHub Actions, GitHub Dependabot",
+    "isPrivate": true
+  },
+  {
+    "itemId": "9",
+    "title": "Agile Entwicklung Framework-Migration",
+    "role": [
+      "Junior Consultant",
+      "Junior Software Engineer",
+      "Technical Lead Frontend"
+    ],
+    "startDate": "01/2022",
+    "endDate": "02/2022",
+    "industry": ["Versicherung"],
+    "description": "Migration des verwendeten Frameworks von einer veralteten auf eine aktuelle Version inkl. Umzug aller benötigten Dependencies (öffentlich und intern). Ablösung von TSLint durch ESLint zur Einhaltung der TypeScript-Guidelines sowie Anpassung/Formatierung des Source Codes nach ESLint-Regeln.",
+    "bulletpoints": [
+      "Mitarbeit in Agile Meetings (Daily, Planning, Review)",
+      "Anforderungsmanagement sowie Umsetzungsplanung",
+      "Mitwirkung an Architektur-/Technologieentscheidungen (Framework/Tooling)",
+      "Entwicklung, Migration und Betrieb inkl. Dependency-Umzug (intern/extern)",
+      "Tests sowie technische Dokumentation und Code-Standardisierung via ESLint"
+    ],
+    "technischesUmfeld": "SonarQube, Git, Atlassian Confluence/Jira, Atlassian Bitbucket, bash, zsh, VS Code, Docker, Kubernetes, Jenkins, Keycloak, NodeJS, NPM, ESLint, TSLint, Typescript, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "10",
+    "title": "Agile Entwicklung Code Generator",
+    "role": ["Softwarearchitekt", "Fullstack-Entwickler"],
+    "startDate": "07/2022",
+    "endDate": "09/2022",
+    "industry": ["Software Entwicklung", "Beratung"],
+    "description": "Konzeption und Entwicklung eines Code-Generators zur schnellen Erstellung von Prototypen/Mock-ups für interne und kundenseitige Anwendungen. Auf Basis einer OpenAPI-Spezifikation erzeugt das Tool automatisch eine lauffähige Backend-Anwendung (Spring REST) sowie ein integriertes Angular-Frontend. Über eine YAML-Konfiguration lassen sich fachliche Inhalte und UI-Parameter (z. B. Header/Footer/Struktur) definieren, um in kurzer Zeit customisierte Anwendungen inkl. Schnittstellen zu generieren. Ziel: deutlich weniger Entwicklungsaufwand in frühen Phasen und Standardisierung von Architektur- und Schnittstellenkonzepten.",
+    "bulletpoints": [
+      "Anforderungsmanagement für einen generischen, wiederverwendbaren Code-Generator",
+      "Architekturplanung für die automatisierte Generierung von Frontend- und Backend-Komponenten",
+      "Entwicklung des Generators: Spring REST + Angular aus OpenAPI- und YAML-Definitionen",
+      "Sicherstellung der Interoperabilität zwischen generiertem Frontend und Backend sowie Betrieb/Weiterentwicklung",
+      "Tests zur Validierung der generierten Anwendungen + technische Dokumentation (Nutzung/Erweiterung)"
+    ],
+    "technischesUmfeld": "Git, GitHub, VS Code, Mustache, NodeJS, NPM, JavaScript, Angular, Typescript, Apache Maven, Spring Web, Spring Security, Spring Data, Spring Boot, Java",
+    "isPrivate": false
+  },
+  {
+    "itemId": "11",
+    "title": "Migrations-Betreuung & Agile Weiterentwicklung",
+    "role": [
+      "Cloud Engineer",
+      "Fullstack-Entwickler",
+      "Technical Lead Frontend"
+    ],
+    "startDate": "07/2022",
+    "endDate": "12/2022",
+    "industry": ["Versicherung"],
+    "description": "Weiterentwicklung und Betrieb eines produktiven Systems im Zuge der Migration auf eine Azure-basierte Zielplattform inkl. Umsetzung erforderlicher Code-Anpassungen, Integrationslogik und migrationsspezifischer Erweiterungen. Technische Begleitung der laufenden Migration aus einem Vorprojekt sowie Erweiterungen zur Integration zusätzlicher Tochterunternehmen. Enge Zusammenarbeit mit der Telekom Deutschland Group in Prozess-/Architekturplanung und iterativer Umsetzung. Ergänzend Konzeption und Entwicklung neuer UI-Funktionen zur Unterstützung erweiterter Plattform- und Prozessanforderungen.",
+    "bulletpoints": [
+      "Mitarbeit im Anforderungsmanagement sowie Beteiligung an Umsetzungs- und Migrationsplanung",
+      "Mitwirkung an Architekturentscheidungen für Frontend/Backend im Kontext plattformbasierter Anwendungen",
+      "Entwicklung, Weiterentwicklung und Betrieb von Frontend- und Backend-Komponenten inkl. Support des Migrationsbetriebs",
+      "Planung/Durchführung von Dev-, Unit- und E2E-Tests zur Absicherung von Funktionalität und Migration",
+      "Erstellung und Pflege technischer Dokumentation für Entwicklung und Betrieb"
+    ],
+    "technischesUmfeld": "SQL, Java, SonarQube, GitHub Actions, Atlassian Confluence/Jira, REST, Git, bash, zsh, VS Code, Apache Maven, Helm, Docker, Kubernetes, Microservices, MS SQL Server, MS Logs, MS Runbooks, MS Messaging, MS Servicebus, Microsoft Azure, NodeJS, NPM, JavaScript, Spring Web, Spring Security, Spring Data, Spring Boot, Typescript, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "12",
+    "title": "Website - Restaurant",
+    "role": ["Software Engineer"],
+    "startDate": "09/2022",
+    "endDate": "12/2022",
+    "industry": ["Hospitality"],
+    "description": "Ein Restaurant hat mich beauftragt eine Website mit kleinem Webshop zu entwickeln. Im Webshop sollte ein Sortiment an Weinen abgebildet und bestellt werden.",
+    "bulletpoints": [
+      "Responsive Website",
+      "Webshop für Weinbestellungen",
+      "Backend mit Spring Boot"
+    ],
+    "technischesUmfeld": "Angular, Nx, PrimeNG, PrimeIcons, PrimeFlex, RxJS, npm, Angular CLI, TypeScript, Jest, jest-preset-angular, Cypress, ESLint, Prettier, Spring Boot, Java, PostgreSQL, Spring Data JPA, Spring Security, Maven, Git, GitHub, GitHub Actions",
+    "isPrivate": true
+  },
+  {
+    "itemId": "13",
+    "title": "Migration zu Managed Kubernetes Cluster",
+    "role": ["Software Engineer", "Software Architekt", "DevOps Engineer"],
+    "startDate": "01/2023",
+    "endDate": "02/2023",
+    "industry": ["Software Entwicklung", "Beratung"],
+    "description": "Aufbau einer internen Produktiv- und Entwicklungsplattform zur standardisierten Bereitstellung und zum Betrieb von Softwarelösungen auf Kubernetes (AKS). Migration bestehender Deployment-/Betriebsprozesse von Portainer/Jenkins auf eine Kubernetes-native Architektur mit Docker, Traefik und GitHub Actions, um Deployments zu vereinheitlichen, manuelle Eingriffe zu reduzieren und reproduzierbare Build-/Release-Prozesse zu etablieren. Entwicklung von CI/CD-Workflows (Build/Test/Deploy) sowie schrittweise Migration und Anpassung bestehender Anwendungen an die neue Plattform.",
+    "bulletpoints": [
+      "Anforderungsmanagement für Entwicklungs- und Produktivumgebungen",
+      "Planung und Umsetzung von Plattformaufbau und Migrationsstrategie für containerisierte Anwendungen",
+      "Architekturmitarbeit im Kubernetes-/Cloud-Umfeld (AKS) inkl. Kubernetes-nativer Betriebsprozesse",
+      "Migration, Anpassung und Betrieb bestehender Anwendungen auf der AKS-Plattform",
+      "Konzeption/Implementierung von CI/CD mit GitHub Actions inkl. Tests sowie technischer Doku (Plattform/Deploy/Betrieb)"
+    ],
+    "technischesUmfeld": "Helm, Portainer, Jenkins, GitHub Actions, Traefik, K8s, Kubernetes, AKS, Azure Cloud",
+    "isPrivate": false
+  },
+  {
+    "itemId": "14",
+    "title": "Cloud Migration & Weiterentwicklung Portfolio Tool",
+    "role": [
+      "Software Engineer",
+      "Cloud Engineer",
+      "DevOps Engineer",
+      "Softwarearchitekt"
+    ],
+    "startDate": "01/2023",
+    "endDate": "03/2023",
+    "industry": ["Software Entwicklung", "Beratung"],
+    "description": "Migration einer internen Anwendung zur Mitarbeiterprofil-Generierung von Monolith zu cloudfähiger Microservice-Architektur auf einer containerbasierten Plattform. Fokus: Entkopplung fachlicher Komponenten, klare Service-Schnittstellen sowie Vorbereitung für automatisierte Deployments und skalierbaren Betrieb.",
+    "bulletpoints": [
+      "Anforderungsmanagement mit Fokus auf Plattform- und Betriebsanforderungen",
+      "Planung und Umsetzung der Monolith→Microservice-Migration inkl. Schnittstellen-/Service-Zuschnitt",
+      "Mitwirkung an Architekturentscheidungen für containerisierte, plattformbasierte Anwendungen",
+      "Entwicklung, Integration und Betrieb der Microservices auf der Zielplattform",
+      "Tests (Funktion/Integration/Plattformtauglichkeit) sowie technische Doku für Betrieb & Deployment"
+    ],
+    "technischesUmfeld": "Flask, Angular, npm, Traefik, NodeJS, GitHub Actions, wsgi, K8s, AKS, Express, PostgreSQL, TypeScript, Python, Spring Boot, Java, Mustache, Maven, Docker, Kubernetes, Azure Cloud",
+    "isPrivate": false
+  },
+  {
+    "itemId": "15",
+    "title": "Regierungsprojekt Entwicklung und Migration bestehender Web-Applikation",
+    "role": [
+      "Softwarearchitekt",
+      "Fullstack-Entwickler",
+      "DevOps Engineer",
+      "Lead Developer"
+    ],
+    "startDate": "02/2023",
+    "endDate": "01/2026",
+    "industry": ["Government", "Öffentlicher Dienst"],
+    "description": "Weiterentwicklung einer bestehenden Systemlandschaft und Unterstützung bei architekturellen Entscheidungen für eine Lösung zur Erfassung, Berechnung und Verteilung von Kosten in Behörden (u. a. Finanzämter, Handelsregister, Justiz). Kern ist eine zentrale Anwendung, die komplexe Prozesse/Berechnungen ausführt und Informationen an Satellitenanwendungen der Landesbehörden verteilt. Ziel ist eine transparente, rechtlich einheitliche Abwicklung aller fachlichen und technischen Schnittstellen.",
+    "bulletpoints": [
+      "Anforderungsmanagement sowie strukturierte Umsetzungs- und Releaseplanung",
+      "Verantwortung für Architekturentscheidungen im Frontend- und Anwendungsumfeld",
+      "Schulungen/Weiterbildungen im Angular-Umfeld für interne Teams",
+      "Entwicklung, Betrieb und Weiterentwicklung produktiver Anwendungen",
+      "Planung/Durchführung von Dev-, Unit- und E2E-Tests; technische Dokumentation",
+      "Aktive Mitarbeit in agilen Prozessen (Daily, Planning, Review)"
+    ],
+    "technischesUmfeld": "Terraform, Amazon Web Services (AWS), Kubernetes, Cypress, Helm, Atlassian Jira, OpenAPI, Atlassian Confluence, SonarQube, Spring Web, Spring Security, Spring Data, Jenkins, NxWorkspace, Nexus, Docker, GitLab, Bash-Shell, Keycloak, OAuth2, Oracle, MS SQL Server, Hibernate/JPA, JBOSS, Apache Maven, Spring Boot, Java, NPM, Jest, NodeJS, JavaScript, Typescript, Angular",
+    "isPrivate": false
+  },
+  {
+    "itemId": "16",
+    "title": "Persönliche Website",
+    "role": ["Software Engineer"],
+    "startDate": "03/2023",
+    "endDate": "",
+    "industry": ["Personal Project"],
+    "description": "Persönliche Portfolio Website mit Projekten, Ausbildung, Zertifikaten und Kontakt.",
+    "bulletpoints": [
+      "Portfolio Präsentation",
+      "Projekt Übersicht",
+      "Kontaktformular"
+    ],
+    "technischesUmfeld": "Angular, Angular Material, Angular CDK, Material Icons, RxJS, npm, TypeScript, Vitest, ESLint, Prettier, Git, GitHub, GitHub Actions, GitHub Dependabot",
+    "isPrivate": true
+  },
+  {
+    "itemId": "17",
+    "title": "Forschungsprojekt Protokollnutzung AI-Agents",
+    "role": ["Software Engineer", "AI Engineer", "AI Architekt"],
+    "startDate": "01/2025",
+    "endDate": "",
+    "industry": ["AI Research"],
+    "description": "Forschungsprojekt zur Analyse, Simulation und automatisierten Interpretation der Protokollnutzung von AI-Agents mittels Machine Learning. Aufbau einer verteilten Raspberry-Pi-Testumgebung, in der Agents in Echtzeit über MQTT, REST, WebSockets, Protobuf, Binärformate und JSON kommunizieren. Erfassung und ML-gestützte Auswertung der Kommunikationsdaten sowie Entwicklung eines Lernalgorithmus, der unbekannte Protokolle automatisiert analysiert und in eine verständliche Repräsentation überführt. Monitoring der Kommunikationsdaten und Model-Progress in Echtzeit via WebSocket an ein Angular-Frontend.",
+    "bulletpoints": [
+      "Alleinverantwortliche Konzeption und Umsetzung der Gesamtarchitektur des Forschungsprototyps",
+      "Aufbau einer verteilten Raspberry-Pi-Testumgebung und Implementierung der Agentenkommunikation über mehrere Protokolle (MQTT/REST/WebSockets/Protobuf/Binär/JSON)",
+      "Simulation dynamischer Protokollwechsel bis zur Entwicklung eigener Kommunikationsmuster via evolutionären Verfahren",
+      "Aktives Instrumentieren/Einschleusen ins Agentennetzwerk zur Echtzeit-Erfassung von Logs/Streams/Paketdaten/Metriken",
+      "ML-basierte Protokollanalyse (RL/Unsupervised) inkl. Lernalgorithmus zur automatisierten Protokoll-Übersetzung sowie Echtzeit-Monitoring (WebSocket → Angular)"
+    ],
+    "technischesUmfeld": "Docker, Container, Virtualisierung, PostgreSQL, TimescaleDB, Raspberry Pi, Linux, NodeJS, npm, Bash/Shell, Angular, SciKit-Learn, Tensorflow, PyTorch, Flask, Python",
+    "isPrivate": false
+  },
+  {
+    "itemId": "18",
+    "title": "Karboniq",
+    "role": ["Architect", "Software Engineer"],
+    "startDate": "03/2025",
+    "endDate": "",
+    "industry": ["Sustainability"],
+    "description": "Native Mobile App zur Überwachung des persönlichen CO2 Fußabdruckes.",
+    "bulletpoints": [
+      "Berechnung der erbrachten Kilometer und Berechnung des entstehenden CO2 Verbrauchs",
+      "Scannen von Produkten und Berechnung des daraus entstehenden CO2 Verbrauchs",
+      "Angebot von Alternativen",
+      "Erwerb von Klima-Zertifikaten",
+      "Social Community Feature mit Leaderboard und Feed"
+    ],
+    "technischesUmfeld": "Flutter, Dart, Provider, Python, FastAPI, Uvicorn, PostgreSQL, SQLModel, Django, APScheduler, Redis, Stripe, PassLib, PyJWT, Pandas, flutter_test, integration_test, Git, GitHub, GitHub Actions, GitHub Dependabot",
+    "isPrivate": true
+  },
+  {
+    "itemId": "19",
+    "title": "Treasr",
+    "role": ["Architect", "Software Engineer"],
+    "startDate": "05/2025",
+    "endDate": "",
+    "industry": ["Finance"],
+    "description": "Tracking von Portfolio Performance oder Watchlists.",
+    "bulletpoints": [
+      "Anlegen von Portfolio/Watchlist auf Basis von Aktientickern mit Performance seit Kauf",
+      "Angabe von Fundamentaldaten zu jedem Unternehmen",
+      "Newsfeed mit Nachrichten zu Unternehmen",
+      "Analyse Modul zur Berechnung verschiedener finanzieller Indikatoren und Stresstest",
+      "Unterschiedliche Subscription Modelle",
+      "Deutsch und Englisch Support"
+    ],
+    "technischesUmfeld": "FastAPI, Uvicorn, Python, PostgreSQL, SQLAlchemy, SQLModel, Alembic, PyJWT, Redis, Stripe, Pandas, yfinance, APScheduler, Docker, pytest, Angular, Angular Material, Tailwind CSS, Chart.js, ng2-charts, RxJS, npm, TypeScript, Vitest, ESLint, Prettier, Git, GitHub, GitHub Actions",
+    "isPrivate": true
+  },
+  {
+    "itemId": "20",
+    "title": "Beratung Business Modelling Lösung",
+    "role": ["Consultant", "AI Engineer"],
+    "startDate": "07/2025",
+    "endDate": "",
+    "industry": ["Business Modelling", "AI"],
+    "description": "Beratung bei einem Prototypen einer Agent-basierten Lösung bei Bug-Fixing, Implementierung und Bereitstellung der Software.",
+    "bulletpoints": [
+      "Bug-Fixing und Implementierung",
+      "Bereitstellung der Software",
+      "Agent-basierte Lösung"
+    ],
+    "technischesUmfeld": "JavaScript, TypeScript, Python, Business Modelling, Claude Code, ChatGPT, LLM",
+    "isPrivate": true
+  },
+  {
+    "itemId": "21",
+    "title": "Start-Up Beratung und Infrastruktur",
+    "role": [
+      "AI Engineer",
+      "Software Engineer",
+      "Cloud Engineer",
+      "Cloud Solution Architekt"
+    ],
+    "startDate": "08/2025",
+    "endDate": "12/2025",
+    "industry": ["AI", "Beratung"],
+    "description": "Konzeption und Umsetzung einer skalierbaren Cloud-Infrastruktur für ein AI-Start-up inkl. Migration von On-Premise-Systemen, Aufbau einer MVP/Prototyping-Entwicklerumgebung und CI/CD-Deployments. Fokus auf sichere, wartungsarme Architektur sowie Audits zur Sicherstellung von Security- und Best-Practice-Standards.",
+    "bulletpoints": [
+      "Analyse/Dokumentation der IT- und Serverlandschaft inkl. Security-Gap-Assessment",
+      "Anforderungsanalyse (auch für nicht-technische Nutzer) und Migrationsplan On-Prem → Cloud",
+      "Design & Implementierung einer skalierbaren, sicheren Zielarchitektur inkl. CI/CD-Deployments",
+      "Aufbau einer Dev-Umgebung für MVPs/Prototypen (Build, Verteilung, Tests) + Stabilitäts-/Security-Tests",
+      "Regelmäßiges Stakeholder-Alignment in Circle-Meetings"
+    ],
+    "technischesUmfeld": "Authentifizierung und Autorisierung, Mermaid, Python, GitHub Actions, GitHub, Docker, Kubernetes, GCP Google Cloud Platform, Linux Shell (bash), Linux Server, Claude Code, LLM, Langdock, MCP Server, Deployment- und Go-Live-Management inkl. Produktionsstabilisierung, Containervirtualisierung, Virtualisierung, Virtuelle Computer",
+    "isPrivate": false
+  },
+  {
+    "itemId": "22",
+    "title": "GitHub Actions Toolkit",
+    "role": ["Architect", "Software Engineer"],
+    "startDate": "12/2025",
+    "endDate": "1/2026",
+    "industry": ["Developer Tools"],
+    "description": "Sammlung eigenständiger GitHub Actions zur heuristischen Analyse von Pull Requests und CI-Workflows ohne AI/ML-Einsatz.",
+    "bulletpoints": [
+      "PR Advisor: Größenklassifikation, Erkennung blockierter PRs und regelbasierte Reviewer-Vorschläge",
+      "CI Failure Analyzer: Automatische Fehlerklassifikation mit 29 Regex-Regeln und Flaky-Test-Erkennung",
+      "Pattern-Tracking wiederkehrender CI-Fehler mittels GitHub Issues mit Fehlersignatur-Hashing",
+      "Automatisierte Release-Notes-Generierung aus gemergten PRs",
+      "Stale-Sweep-Funktion zum Scannen offener PRs auf verwaiste Pull Requests"
+    ],
+    "technischesUmfeld": "JavaScript, Node.js, GitHub Actions, GitHub REST API, Octokit, @vercel/ncc, adm-zip, minimatch, CODEOWNERS, Git, GitHub",
+    "isPrivate": true
+  },
+  {
+    "itemId": "23",
+    "title": "KI-gestütztes Förderprogramm-Empfehlungssystem",
+    "role": ["Full Stack AI Engineer", "DevOps Engineer"],
+    "startDate": "01/2026",
+    "endDate": "03/2026",
+    "industry": ["Finanzdienstleistungen", "FinTech", "Öffentliche Verwaltung"],
+    "description": "KI-gestütztes Förderprogramm-Empfehlungssystem mit mehrstufiger RAG-Architektur und entropiebasiertem dynamischen Dialog zur evidenzbasierten Vermittlung deutscher Förderprogramme.",
+    "bulletpoints": [
+      "Multi-Stage RAG-Pipeline mit strukturierter Programmkarten-Extraktion aus PDF-Dokumenten",
+      "Zweistufiges Indexierungssystem mit ChromaDB-Vektorindex und BM25-Seitensuche",
+      "Evidenzbasiertes Verifikationssystem mit PDF-Zitat-Tracking",
+      "Entropiebasiertes adaptives Fragensystem mit dynamischer Kandidatenfilterung",
+      "Sektion-bewusste Multi-Field LLM-Extraktion mit OCR-Fallback",
+      "Professionelle Web-UI mit Astro, React und REST-API"
+    ],
+    "technischesUmfeld": "Python, Azure OpenAI, LangChain, ChromaDB, BM25, FastAPI, Uvicorn, Pydantic, PyPDF, Tesseract OCR, Astro, React, TypeScript, Tailwind CSS, Node.js, npm, uv, Ruff, Mypy, Pytest, Make, Git, Docker, Gunicorn",
+    "isPrivate": false
+  },
+  {
+    "itemId": "24",
+    "title": "Safari Claude Verifier",
+    "role": ["Architect", "AI Engineer", "Software Engineer"],
+    "startDate": "01/2026",
+    "endDate": "",
+    "industry": ["Developer Tools"],
+    "description": "MCP-Server und Safari Web Extension zur automatisierten Verifikation von Webseiten mittels Safari.",
+    "bulletpoints": [
+      "Steuerung von Safari via W3C WebDriver Protokoll und Safari Web Extension",
+      "Zwei Betriebsmodi: Extension-Modus (WebSocket-Bridge) und WebDriver-Modus (safaridriver)",
+      "DOM-Overlay-Banner und macOS-Benachrichtigungen als visuelles Feedback",
+      "Automatische Report-Generierung mit Screenshots, HTML-Dumps und Console-Logs",
+      "Polling-basiertes Wait-For-Condition-System vor Assertion-Ausführung"
+    ],
+    "technischesUmfeld": "TypeScript, Node.js, Swift, Xcode, Safari Web Extension API, W3C WebDriver, Model Context Protocol (MCP), Zod, WebSocket, ESLint, Vitest, Git, GitHub",
+    "isPrivate": true
+  },
+  {
+    "itemId": "25",
+    "title": "ngc-rs",
+    "role": ["Architect", "Software Engineer"],
+    "startDate": "01/2026",
+    "endDate": "",
+    "industry": ["Developer Tools"],
+    "description": "Nativer Rust-Ersatz für Angular CLI ng build, der identische dist/-Ausgaben 5–10× schneller erzeugt.",
+    "bulletpoints": [
+      "Nativer TypeScript-Parser und -Transformer auf Basis von oxc statt Babel/SWC",
+      "Angular Ivy Template-Compiler mit eigenem PEG-Parser für @if/@for/@switch Control Flow",
+      "Custom ESM-Bundler mit Code-Splitting, Lazy-Route-Chunks und Content-Hash-Dateinamen",
+      "Angular Linker für partially compiled npm-Pakete (ɵɵngDeclare* → ɵɵdefine*)",
+      "Parallele Dateiverarbeitung via rayon mit petgraph-basiertem Dependency-Graph"
+    ],
+    "technischesUmfeld": "Rust, oxc, rayon, petgraph, clap, serde, pest (PEG), Source Maps, Angular Ivy, TypeScript, Git, GitHub",
+    "isPrivate": true
+  },
+  {
+    "itemId": "26",
+    "title": "Neuentwicklung Antragsstrecke",
+    "role": ["Senior Softwareentwickler"],
+    "startDate": "03/2026",
+    "endDate": "",
+    "industry": ["Versicherung"],
+    "description": "Neuentwicklung von Antragsstrecken im Versicherungsumfeld.",
+    "bulletpoints": ["Frontend-Entwicklung"],
+    "technischesUmfeld": "Angular, NxWorkspace, npm, GitLab",
+    "isPrivate": false
+  }
+]
